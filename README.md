@@ -18,4 +18,4 @@ Funcionalidades:
 
 	* Tratamento para determinante igual a 0 (sistema impossível).
 
-Feito em conjunto com Miguel Chiarello Fernandes.
+Feito em conjunto com Mateus Jediel Ferreira.
